@@ -1,0 +1,6 @@
+{
+  "name": "Business Management System",
+  "description": "Professional business and pharmacy management system with inventory, POS, sales, purchases, profit calculation, online product search, and spreadsheet capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
